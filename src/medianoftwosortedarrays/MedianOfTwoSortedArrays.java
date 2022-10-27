@@ -17,7 +17,7 @@ public class MedianOfTwoSortedArrays {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int nums1[] = new int[5];
+        int nums1[] = new int[6];
         nums1[0] = 4;
         nums1[1] = 7;
         nums1[2] = 11;
@@ -25,7 +25,7 @@ public class MedianOfTwoSortedArrays {
         nums1[4] = 19;
         nums1[5] = 22;
         
-        int nums2[] = new int[6];
+        int nums2[] = new int[7];
         nums2[0] = 3;
         nums2[1] = 6;
         nums2[2] = 8;
